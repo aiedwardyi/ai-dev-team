@@ -47,10 +47,10 @@ Every app is generated from a single prompt — no templates, no manual coding. 
 
 ![Crypto Dashboard](docs/screenshots/dashboard-crypto.jpg)
 
-### Final Fantasy VIII Fan Page
-> Prompt: *"Build a Final Fantasy VIII fan page with character profiles, weapons gallery, and world map"*
+### Final Fantasy VII Fan Page
+> Prompt: *"Build a Final Fantasy VII fan page with character profiles, materia system, weapons gallery, and world map"*
 
-[![FF8 Fan Page](docs/screenshots/game-ff8-thumb.jpg)](docs/screenshots/game-ff8-full.jpg)
+[![FF7 Fan Page](docs/screenshots/game-ff7-thumb.jpg)](docs/screenshots/game-ff7-full.jpg)
 
 ### SaaS Landing Page
 > Prompt: *"Build a landing page for an AI-powered writing assistant with features, pricing, and testimonials"*
